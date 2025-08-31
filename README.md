@@ -29,4 +29,5 @@ Open the project directory in a new window and run the html file
 
 ## Features
 Persistent Storage leveraged using local storage of browser sustaining accidental refresh.
+
 Add, Complete, Delete efficiently.
